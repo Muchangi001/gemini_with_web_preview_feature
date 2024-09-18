@@ -1,7 +1,7 @@
-**Overview**
+# Overview
 A bash script that adds web preview feature for the log file of the gemini program.
 
-**Dependencies**
+# Dependencies
 gemini program
 mdview program for linux
 - Installing mdview using snapd : 
